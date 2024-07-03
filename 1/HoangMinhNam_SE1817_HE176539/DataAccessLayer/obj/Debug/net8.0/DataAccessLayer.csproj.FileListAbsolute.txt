@@ -1,0 +1,16 @@
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

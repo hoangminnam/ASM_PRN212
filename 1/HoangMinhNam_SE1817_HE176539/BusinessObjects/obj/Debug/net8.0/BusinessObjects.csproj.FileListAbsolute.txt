@@ -1,0 +1,12 @@
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

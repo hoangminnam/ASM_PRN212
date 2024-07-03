@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Repositories.Models;
+﻿
+namespace BusinessObjects;
 
 public partial class BookRoom
 {
@@ -9,9 +7,9 @@ public partial class BookRoom
 
     public int RoomId { get; set; }
 
-    public DateOnly DateFrom { get; set; }
+    public DateTime DateFrom { get; set; }
 
-    public string DateTo { get; set; } = null!;
+    public DateTime DateTo { get; set; }
 
     public virtual Customer Customer { get; set; } = null!;
 

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92292D21-35B7-49A2-8EEB-4FA39746E46E}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fptu\\semester_5\\prn212\\asm\\1\\hoangminhnam_se1817_he176539\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92292D21-35B7-49A2-8EEB-4FA39746E46E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|solutionrelative:services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|e:\\fptu\\semester_5\\prn212\\asm\\1\\hoangminhnam_se1817_he176539\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92292D21-35B7-49A2-8EEB-4FA39746E46E}|DataAccessLayer\\DataAccessLayer.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92292D21-35B7-49A2-8EEB-4FA39746E46E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A4C4B-75F4-4149-B85A-D79DD0B991AE}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +46,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\DataAccessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
-              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\DataAccessLayer\\Class1.cs",
-              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswBMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:58:12.397Z",
+              "WhenOpened": "2024-07-03T18:15:00.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\appsettings.json",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\appsettings.json",
+              "RelativeToolTip": "Services\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T17:59:38.834Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T17:50:59.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:28:35.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:25:59.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:06:04.753Z"
             }
           ]
         }

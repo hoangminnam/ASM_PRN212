@@ -1,0 +1,15 @@
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

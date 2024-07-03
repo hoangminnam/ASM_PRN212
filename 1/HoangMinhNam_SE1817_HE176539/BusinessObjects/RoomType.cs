@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Repositories.Models;
+﻿namespace BusinessObjects;
 
 public partial class RoomType
 {
@@ -11,7 +8,7 @@ public partial class RoomType
 
     public string? TypeDescription { get; set; }
 
-    public string? TypenNote { get; set; }
+    public string? TypeNote { get; set; }
 
     public virtual ICollection<RoomInformation> RoomInformations { get; set; } = new List<RoomInformation>();
 }

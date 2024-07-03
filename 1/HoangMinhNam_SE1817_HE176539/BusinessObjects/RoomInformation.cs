@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Repositories.Models;
+﻿
+namespace BusinessObjects;
 
 public partial class RoomInformation
 {
