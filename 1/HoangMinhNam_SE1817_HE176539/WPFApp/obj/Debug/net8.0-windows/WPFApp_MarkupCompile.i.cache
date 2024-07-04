@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\FPTU\Semester_5\PRN212\asm\1\HoangMinhNam_SE1817_HE176539\WPFApp\App.xaml
-2-216653475
+11-1816212003
 
-7-345609135
+16-498083265
 2111550288627
-LoginWindow.xaml;MainWindow.xaml;
+AdminMainWindow.xaml;BookingWindow.xaml;BookRoomHistoryWindow.xaml;BookRoomManagerWindow.xaml;BookRoomWindow.xaml;CustomerEditDialog.xaml;CustomerMainWindow.xaml;CustomerManagerWindow.xaml;EditDialog.xaml;LoginWindow.xaml;RoomManagerWindow.xaml;
 
 True
 

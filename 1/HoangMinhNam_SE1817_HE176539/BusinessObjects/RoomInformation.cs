@@ -16,8 +16,4 @@ public partial class RoomInformation
     public decimal RoomPricePerDate { get; set; }
 
     public int RoomTypeId { get; set; }
-
-    public virtual ICollection<BookRoom> BookRooms { get; set; } = new List<BookRoom>();
-
-    public virtual RoomType RoomType { get; set; } = null!;
 }

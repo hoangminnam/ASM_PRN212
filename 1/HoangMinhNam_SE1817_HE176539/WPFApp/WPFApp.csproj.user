@@ -7,10 +7,66 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="BookingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookRoomHistoryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookRoomManagerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookRoomWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerEditDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerManagerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RoomManagerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="BookingWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookRoomHistoryWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookRoomManagerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookRoomWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerEditDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerManagerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="LoginWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="AdminMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RoomManagerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

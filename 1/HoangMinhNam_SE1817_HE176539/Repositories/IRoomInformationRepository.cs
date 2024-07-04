@@ -10,5 +10,8 @@ namespace Repositories
     public interface IRoomInformationRepository
     {
         public List<RoomInformation> GetListRoomInformation();
+        public void UpdateRoomInfomation(RoomInformation roomInformation);
+        public void AddRoomInfomation(RoomInformation newRoomInformation);
+        public void RemoveRoomInformation(RoomInformation newRoomInformation);
     }
 }

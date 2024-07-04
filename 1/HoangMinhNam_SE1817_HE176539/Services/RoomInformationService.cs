@@ -16,6 +16,22 @@ namespace Services
         {
             _roomInformationRepository = new RoomInformationRepository();
         }
-        public List<RoomInformation> GetListRoomInformation() => _roomInformationRepository.GetListRoomInformation();    
+
+        public void AddRoomInformation(RoomInformation newRoomInformation)
+        {
+            _roomInformationRepository.AddRoomInfomation(newRoomInformation);
+        }
+
+        public List<RoomInformation> GetListRoomInformation() => _roomInformationRepository.GetListRoomInformation();
+
+        public void RemoveRoomInformation(RoomInformation newRoomInformation)
+        {
+            _roomInformationRepository.RemoveRoomInformation(newRoomInformation);
+        }
+
+        public void UpdateRoomInfomation(RoomInformation roomInformation)
+        {
+            _roomInformationRepository.UpdateRoomInfomation(roomInformation);
+        }
     }
 }

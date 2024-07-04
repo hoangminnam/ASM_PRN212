@@ -10,5 +10,13 @@ namespace Repositories
     public interface ICustomerRepository
     {
         public List<Customer> GetListCustomer();
+
+        public void DeleteCustomer(Customer customer);
+
+        public void UpdateCustomer(Customer customer);
+
+        public void AddCustomer(Customer customer);
+
+        public Customer GetCustomerByPhone(string telephone);
     }
 }

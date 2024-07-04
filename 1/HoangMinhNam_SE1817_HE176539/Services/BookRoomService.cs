@@ -18,6 +18,8 @@ namespace Services
             bookRoomRepository = new BookRoomRepository();
         }
 
+        public void CreateBookRoom(BookRoom bookRoom) => bookRoomRepository.CreateBookRoom(bookRoom);
+
         public List<BookRoom> GetListBookRoom() => bookRoomRepository.GetListBookRoom();
     }
 }

@@ -40,12 +40,15 @@ namespace WPFApp
                 if (isUserAuthorized)
                 {
                     this.Hide();
-                    MainWindow mainWindow = new MainWindow();
-                    mainWindow.Show();
+                    AdminMainWindow adminMain = new AdminMainWindow();
+                    adminMain.Show();
                 }
                 else
                 {
-                    MessageBox.Show("Screen Customer");
+                    UserSession.Username = username;
+                    CustomerMainWindow customerMain = new CustomerMainWindow();
+                    customerMain.Show();
+                    this.Hide();    
                 }
             }
             else

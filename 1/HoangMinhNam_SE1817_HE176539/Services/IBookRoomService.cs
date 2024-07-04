@@ -10,5 +10,7 @@ namespace Services
     public interface IBookRoomService
     {
         public List<BookRoom> GetListBookRoom();
+
+        public void CreateBookRoom(BookRoom bookRoom);
     }
 }

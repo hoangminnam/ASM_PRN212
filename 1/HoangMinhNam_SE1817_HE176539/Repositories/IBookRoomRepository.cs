@@ -10,5 +10,7 @@ namespace Repositories
     public interface IBookRoomRepository
     {
         public List<BookRoom> GetListBookRoom();
+
+        public void CreateBookRoom(BookRoom bookRoom);
     }
 }

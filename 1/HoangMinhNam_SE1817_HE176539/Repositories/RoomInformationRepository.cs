@@ -10,6 +10,21 @@ namespace Repositories
 {
     public class RoomInformationRepository : IRoomInformationRepository
     {
+        public void AddRoomInfomation(RoomInformation newRoomInformation)
+        {
+            RoomInformationDAO.Add(newRoomInformation);
+        }
+
         public List<RoomInformation> GetListRoomInformation() => RoomInformationDAO.GetListRoom();
+
+        public void RemoveRoomInformation(RoomInformation newRoomInformation)
+        {
+            RoomInformationDAO.Delete(newRoomInformation);
+        }
+
+        public void UpdateRoomInfomation(RoomInformation roomInformation)
+        {
+            RoomInformationDAO.UpdateRoomInformation(roomInformation);
+        }
     }
 }

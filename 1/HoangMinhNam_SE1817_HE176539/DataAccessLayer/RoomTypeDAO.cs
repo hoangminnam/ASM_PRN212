@@ -9,32 +9,33 @@ namespace DataAccessLayer
 {
     public class RoomTypeDAO
     {
-         public static List<RoomType> GetListRoomType()
+        private static List<RoomType> roomTypes = new List<RoomType>
         {
-            var roomTypes = new List<RoomType>
-            {
-                new RoomType
-                {
-                    RoomTypeId = 1,
-                    RoomTypeName = "Single",
-                    TypeDescription = "Single room, suitable for 1-2 people",
-                    TypeNote = "Sea view"
-                },
-                new RoomType
-                {
-                    RoomTypeId = 2,
-                    RoomTypeName = "Double",
-                    TypeDescription = "Double room, suitable for 2-4 people",
-                    TypeNote = "With balcony"
-                },
-                new RoomType
-                {
-                    RoomTypeId = 3,
-                    RoomTypeName = "Family",
-                    TypeDescription = "Family room, suitable for 4-6 people",
-                    TypeNote = "With kitchen"
-                }
-            };
+        new RoomType
+        {
+            RoomTypeId = 1,
+            RoomTypeName = "Single",
+            TypeDescription = "Single room, suitable for 1-2 people",
+            TypeNote = "Sea view"
+        },
+        new RoomType
+        {
+            RoomTypeId = 2,
+            RoomTypeName = "Double",
+            TypeDescription = "Double room, suitable for 2-4 people",
+            TypeNote = "With balcony"
+        },
+        new RoomType
+        {
+            RoomTypeId = 3,
+            RoomTypeName = "Family",
+            TypeDescription = "Family room, suitable for 4-6 people",
+            TypeNote = "With kitchen"
+        }
+        };
+
+        public static List<RoomType> GetListRoomType()
+        {
             return roomTypes;
         }
     }
