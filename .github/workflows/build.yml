@@ -39,12 +39,9 @@ jobs:
         run: |
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
-      - name: Debug - Print Current Directory
-        shell: powershell
-        run: Get-Location
       - name: Build and analyze
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"hoangminnam_ASM_PRN212_f9757f3f-e57d-4e36-85e9-b55b02b51bf4" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
-          dotnet build "app/HoangMinhNam_SE1817_HE176539.sln"
+          dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
