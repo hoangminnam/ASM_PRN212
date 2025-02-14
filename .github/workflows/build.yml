@@ -42,6 +42,7 @@ jobs:
       - name: Build and analyze
         shell: powershell
         run: |
+          cd 1/app
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"hoangminnam_ASM_PRN212_f9757f3f-e57d-4e36-85e9-b55b02b51bf4" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
