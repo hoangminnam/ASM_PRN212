@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\",
+  "WorkspaceRootPath": "C:\\Users\\NamHoang\\Desktop\\ASM_PRN212\\HoangMinhNam_SE1817_HE176539\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|e:\\fptu\\semester_5\\prn212\\asm\\1\\hoangminhnam_se1817_he176539\\wpfapp\\roommanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|c:\\users\\namhoang\\desktop\\asm_prn212\\hoangminhnam_se1817_he176539\\wpfapp\\roommanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\wpfapp\\bookroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|c:\\users\\namhoang\\desktop\\asm_prn212\\hoangminhnam_se1817_he176539\\wpfapp\\bookroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EC945D-A5AA-417F-9AF3-DB1760460440}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\bookroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RoomManagerWindow.xaml",
-              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\RoomManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\NamHoang\\Desktop\\ASM_PRN212\\HoangMinhNam_SE1817_HE176539\\WPFApp\\RoomManagerWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\RoomManagerWindow.xaml",
-              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\RoomManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\NamHoang\\Desktop\\ASM_PRN212\\HoangMinhNam_SE1817_HE176539\\WPFApp\\RoomManagerWindow.xaml",
               "RelativeToolTip": "WPFApp\\RoomManagerWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-04T16:28:04.439Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookRoomWindow.xaml.cs",
-              "DocumentMoniker": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\BookRoomWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NamHoang\\Desktop\\ASM_PRN212\\HoangMinhNam_SE1817_HE176539\\WPFApp\\BookRoomWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\BookRoomWindow.xaml.cs",
-              "ToolTip": "E:\\FPTU\\Semester_5\\PRN212\\asm\\1\\HoangMinhNam_SE1817_HE176539\\WPFApp\\BookRoomWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\NamHoang\\Desktop\\ASM_PRN212\\HoangMinhNam_SE1817_HE176539\\WPFApp\\BookRoomWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\BookRoomWindow.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAgwEUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T16:23:44.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T16:23:44.546Z"
             }
           ]
         }
